@@ -1,4 +1,4 @@
-# AIFood – AI Meal Planner Landing Page
+# AIFood - AI Meal Planner Landing Page
 
 A responsive landing page created while following Jonas Schmedtmann’s **Build Responsive Real-World Websites with HTML and CSS** course on Udemy.
 
